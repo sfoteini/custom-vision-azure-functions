@@ -43,3 +43,14 @@ This article will show you how to export your classifier using the Custom Vision
 In this article, you will create a Python Azure Function with HTTP trigger to consume a TensorFlow machine learning model.
 
 <br>
+
+## Part 4
+<p>
+  <a href="https://sfoteini.github.io/blog/serverless-image-classification-with-azure-functions-and-custom-vision-part-4/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/serverless-image-classification-with-azure-functions-and-custom/ba-p/3647859/?WT.mc_id=AI-MVP-5004971" target="_blank"><img src="https://img.shields.io/badge/Microsoft Tech Community Blog-critical?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/part3-function" target="_blank"><img src="https://img.shields.io/badge/Python App-yellow?style=for-the-badge" alt="Source code"></a>
+</p>
+
+In this article, you will deploy a function project to Azure using Visual Studio Code to create a serverless HTTP API.
+
+<br>
